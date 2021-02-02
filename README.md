@@ -4,12 +4,12 @@ simple but effective commandline gcode modification tool for backlash and laserd
 
 # cmd options
 
-./backlash -i filename <options>
-
--i <file>      set input file name
--x <backlash>  set x axis backlash in mm
--y <backlash>  set y axis backlash in mm
--z <backlash>  set z axis backlash in mm
--dx <delay>    laser x axis on/off delay in second
--dy <delay>    laser y axis on/off delay in second
--dz <delay>    laser z axis on/off delay in second
+./backlash -i filename <options><br>
+<br>
+-i <file>      set input file name<br>
+-x <backlash>  set x axis backlash in mm<br>
+-y <backlash>  set y axis backlash in mm<br>
+-z <backlash>  set z axis backlash in mm<br>
+-dx <delay>    laser x axis on/off delay in second<br>
+-dy <delay>    laser y axis on/off delay in second<br>
+-dz <delay>    laser z axis on/off delay in second<br>
